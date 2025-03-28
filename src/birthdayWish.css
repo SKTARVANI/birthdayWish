@@ -1,0 +1,26 @@
+/* Applying the same background style as Main.css */
+.birthday-wish-container {
+  background: linear-gradient(
+    45deg,
+    rgb(143, 135, 241) 25%, 
+    rgb(198, 142, 253) 50%, 
+    rgb(233, 165, 241) 75%, 
+    rgb(254, 210, 226) 100%
+  ); 
+  background-size: 200% 200%; /* Background size */
+  z-index: -1;
+  animation: wave 10s linear infinite;
+  color: #7a4cde;
+}
+
+@keyframes wave {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
+}
