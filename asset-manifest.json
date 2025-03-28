@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.7793b2b8.css",
-    "main.js": "/your-repo-name/static/js/main.5adf7959.js",
-    "static/js/453.9c2b4894.chunk.js": "/your-repo-name/static/js/453.9c2b4894.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.7793b2b8.css.map": "/your-repo-name/static/css/main.7793b2b8.css.map",
-    "main.5adf7959.js.map": "/your-repo-name/static/js/main.5adf7959.js.map",
-    "453.9c2b4894.chunk.js.map": "/your-repo-name/static/js/453.9c2b4894.chunk.js.map"
+    "main.css": "/birthdayWish/static/css/main.7793b2b8.css",
+    "main.js": "/birthdayWish/static/js/main.8bcc787f.js",
+    "static/js/453.9c2b4894.chunk.js": "/birthdayWish/static/js/453.9c2b4894.chunk.js",
+    "index.html": "/birthdayWish/index.html",
+    "main.7793b2b8.css.map": "/birthdayWish/static/css/main.7793b2b8.css.map",
+    "main.8bcc787f.js.map": "/birthdayWish/static/js/main.8bcc787f.js.map",
+    "453.9c2b4894.chunk.js.map": "/birthdayWish/static/js/453.9c2b4894.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7793b2b8.css",
-    "static/js/main.5adf7959.js"
+    "static/js/main.8bcc787f.js"
   ]
 }
