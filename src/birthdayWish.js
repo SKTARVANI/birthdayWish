@@ -17,7 +17,6 @@ function BirthdayWish() {
     <div className="birthday-wish-container">
       {/* Envelope component placed in the center */}
       <Envelope />
-      <P>Demo</P>
     </div>
   );
 }
